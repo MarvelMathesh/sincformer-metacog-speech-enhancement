@@ -1,6 +1,8 @@
 # State-of-the-Art (SOTA) speech enhancement architecture
 **Deep Complex SincNet-Conformer with Metacognitive Arbitration and Episodic Domain Adaptation**
 
+![Architecture Diagram](Architecture_Diagram.png)
+
 This repository contains the official implementation of our State-of-the-Art (SOTA) speech enhancement architecture. By deeply integrating a multi-agent curriculum and explicit psycho-acoustic loss functions, this architecture significantly significantly outperforms baseline Deep Neural Networks (DNNs) on both raw intelligibility (STOI) and perceptual quality (PESQ) metrics across highly non-stationary acoustic environments.
 
 ## Architecture Highlights
